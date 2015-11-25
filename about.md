@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
+title: About Us
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+CI Computer Girls is a club dedicated to encouraging and empowering young women to enter the field of Computer Science. 
+We are now over 25 members strong and growing rapidly with each semester.
+Our mission is to not only enrich and support young women on campus here at California State University Channel Islands, but also to extend our knowledge to young women in our community. 
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+CI Computer Girls membership is extended to both men and women, persons from all walks of life are welcome!
