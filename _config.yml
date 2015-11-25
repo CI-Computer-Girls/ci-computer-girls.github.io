@@ -9,7 +9,7 @@
 title: CI Computer Girls
 email: csuci.computer.girls@gmail.com
 description: >
-Think we're cool? Contact us and let us know!
+  Think we're cool? Contact us and let us know!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ci-computer-girls.github.io" # the base hostname & protocol for your site
 twitter_username: cicomputergirls
