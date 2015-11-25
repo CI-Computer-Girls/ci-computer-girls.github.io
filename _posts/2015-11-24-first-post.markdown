@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CI Computer Girls First Post"
+title:  "Our Site is Live!"
 date:   2015-11-24 16:52:42 -0800
 author: "Winter Smith"
 categories: update
