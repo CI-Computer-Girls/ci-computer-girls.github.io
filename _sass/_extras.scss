@@ -7,3 +7,17 @@
 	margin-top: .2em;
 	margin-bottom: .2em;
 }
+
+.officer-display {
+	.title {
+		color: $brand-color;
+	}
+	.name {
+		font-size: $large-font-size;
+		border-bottom: 2px solid $grey-color-light;
+		.icons {
+			font-size: $small-font-size;
+			float: right;
+		}
+	}
+}

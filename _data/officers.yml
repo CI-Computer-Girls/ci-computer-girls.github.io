@@ -1,0 +1,27 @@
+
+- name: "Kristen Godinez"
+  title: "President"
+  github: kristengodinez
+  twitter: kzgodi
+  bio: hey
+
+- name: "Kiel Geiger"
+  title: "Vice President"
+  github: Cave-Dweller
+  twitter: inversekinimati
+  bio: hey
+
+- name: "Glo Mercado"
+  title: "Treasurer"
+  github: glomercado
+  bio: hey
+
+- name: "Heather Bradfield"
+  title: "Director of Outreach"
+  bio: hey
+
+- name: "Winter Smith"
+  title: "Director of Social Media"
+  github: wintersmithcs
+  twitter: cicaptainwinter
+  bio: :(

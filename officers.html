@@ -1,0 +1,22 @@
+---
+layout: page
+title: Officers
+permalink: /officers/
+---
+
+{% for officer in site.data.officers %}
+  <div class="officer-display">
+    <p class="name">
+      <span class="title">{{ officer.title }}</span> {{ officer.name }}
+      <span class="icons">
+        {% if officer.github %}
+          {% include icon-github.html username=officer.github %}
+        {% endif %}
+        {% if officer.twitter %}
+          {% include icon-twitter.html username=officer.twitter %}
+        {% endif %}
+      </span>
+    </p>
+    <div class="bio">{{officer.bio | markdownify}}</div>
+  </div>
+{% endfor %}
