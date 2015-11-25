@@ -1,25 +1,19 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "CI Computer Girls First Post"
 date:   2015-11-24 16:52:42 -0800
-categories: jekyll update
+author: "Winter Smith"
+categories: update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Hi Everyone, welcome to the CI Computer Girls website!
+As you can tell, this web page is still under construction and instead of hiding this, we’re happy to share our work in progress with you.
+Over the past semester, the officers of the club have gotten together and discussed the necessity of having a place to post our agendas, calendars, and interesting blog posts without having to go through the cumbersome process of logging into CI Sync.
 
-Jekyll also offers powerful support for code snippets:
+Therefore we’re excited to be developing this collaborative space not just for logistical information regarding the club, but also fun things that will allow us to grow greater as a community.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+We’re aware that this is an amazing opportunity to have your voices in heard in what you’d like to see on the webpage, therefore If you’re interested in helping out the effort, find us at <https://github.com/CI-Computer-Girls/ci-computer-girls.github.io.git>.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Happy coding!
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+\- Winter Smith
