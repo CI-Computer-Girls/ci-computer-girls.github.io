@@ -23,6 +23,11 @@ body {
     -o-font-feature-settings: "kern" 1;
     font-feature-settings: "kern" 1;
     font-kerning: normal;
+
+    ::selection {
+        color: $background-color;
+        background-color: fade-out(darken($brand-color, 10%), .4);
+    }
 }
 
 
