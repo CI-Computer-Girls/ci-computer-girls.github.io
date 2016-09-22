@@ -1,27 +1,37 @@
-
-- name: "Kristen Godinez"
-  title: "President"
-  github: kristengodinez
-  twitter: kzgodi
-  bio: hey
-
-- name: "Kiel Geiger"
-  title: "Vice President"
-  github: Cave-Dweller
-  twitter: inversekinimati
-  bio: hey
-
-- name: "Glo Mercado"
-  title: "Treasurer"
-  github: glomercado
-  bio: hey
+# Contains the current list of officers in the following
+# format:
+#
+# - name: "Name of Person"
+#   title: "Position Title"
+#   github: username
+#   twitter: username
+#   bio:
+#     Words can go here.
+#     Formatted with **Markdown**!
+#
+# note: indentation is significant in YAML
 
 - name: "Heather Bradfield"
-  title: "Director of Outreach"
-  bio: hey
+  title: "President"
+  github: heatherbradfield
+  bio: ""
+
+- name: "Lex Collette"
+  title: "Vice President"
+  bio:
+    This is a bio. Words go here.
+    Even on multiple lines
+
+- name: "Merai Dandouch"
+  title: "Treasurer"
+  bio: ""
+
+- name: "Jesus Bamford"
+  title: "President"
+  bio: ""
 
 - name: "Winter Smith"
-  title: "Director of Social Media"
+  title: "Director of Communications"
   github: wintersmithcs
   twitter: cicaptainwinter
-  bio: :(
+  bio: ""
